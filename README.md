@@ -6,3 +6,6 @@ Steps
 
 Download: https://github.com/AliTefeli02/TikTok-ViewBot/releases/download/Release/Tiktok.ViewBot.zip
 Perhaps you have to install .NET 6.0
+
+Have a Good days
+
